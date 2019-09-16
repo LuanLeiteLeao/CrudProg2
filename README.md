@@ -1,2 +1,3 @@
 # CrudProg2
 Trabalho de programação 2, 1º bimestre.
+Este trabalho tem como obejtivo........
